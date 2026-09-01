@@ -1,0 +1,41 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "smtp:verify": "node scripts/verifySmtp.js",
+    "test": "node --test --test-concurrency=1 \"tests/**/*.test.js\"",
+    "test:ai": "node --test tests/aiIntegration.test.js",
+    "test:calibration-db": "node --test tests/calibrationSchemaPhase1.test.js",
+    "test:calibration-phase2a": "node --test tests/userCalibrationPhase2a.test.js",
+    "test:calibration-phase2b": "node --test tests/calibrationWordPhase2b.test.js",
+    "db:migrate:phase1": "node scripts/run-phase1-migration.js",
+    "db:verify:phase1": "node scripts/verify-phase1-migration.js",
+    "ai:e2e": "node scripts/aiEndToEnd.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "compression": "^1.8.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.6.2",
+    "express-validator": "^7.3.2",
+    "helmet": "^8.2.0",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.11.0",
+    "multer": "^2.2.0",
+    "mysql2": "^3.22.5",
+    "nodemailer": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

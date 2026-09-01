@@ -1,0 +1,2144 @@
+path,label,label_id,type,split
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-1).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-10).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-11).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-12).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-13).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-14).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-15).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-16).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-17).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-18).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-19).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-2).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-20).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-21).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-22).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-23).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-3).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-4).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-5).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-6).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-7).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-8).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(1-9).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-1).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-10).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-11).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-12).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-13).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-14).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-2).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-3).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-4).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-5).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-6).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-7).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-8).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(10-9).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(2-1).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(2-2).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(2-3).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-1).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-10).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-11).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-12).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-13).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-14).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-15).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-16).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-17).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-18).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-19).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-2).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-20).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-3).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-4).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-5).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-6).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-7).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-8).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(3-9).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-1).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-10).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-11).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-12).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-13).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-14).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-15).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-16).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-17).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-18).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-19).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-2).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-20).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-21).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-3).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-4).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-5).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-6).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-7).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-8).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(4-9).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-1).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-10).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-11).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-12).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-13).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-14).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-15).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-16).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-17).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-2).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-3).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-4).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-5).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-6).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-7).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-8).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(5-9).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-1).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-10).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-11).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-12).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-13).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-14).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-15).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-16).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-17).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-18).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-19).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-2).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-3).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-4).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-5).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-6).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-7).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-8).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(6-9).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-1).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-10).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-11).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-12).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-13).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-14).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-2).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-3).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-4).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-5).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-6).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-7).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-8).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(7-9).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-1).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-10).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-11).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-12).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-13).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-14).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-2).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-3).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-4).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-5).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-6).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-7).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-8).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(8-9).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-1).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-10).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-11).txt,Assistance,0,word,val
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-12).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-13).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-2).txt,Assistance,0,word,test
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-3).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-4).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-5).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-6).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-7).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-8).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Assistance\Assistance(9-9).txt,Assistance,0,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-1).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-10).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-11).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-12).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-13).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-14).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-15).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-2).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-3).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-4).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-5).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-6).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-7).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-8).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(1-9).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-1).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-10).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-11).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-12).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-13).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-14).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-15).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-16).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-17).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-18).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-19).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-2).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-20).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-21).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-22).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-23).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-3).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-4).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-5).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-6).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-7).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-8).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(10-9).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-1).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-10).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-11).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-12).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-13).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-14).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-15).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-16).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-17).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-18).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-19).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-2).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-20).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-21).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-22).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-23).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-24).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-25).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-3).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-4).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-5).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-6).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-7).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-8).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(2-9).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-1).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-10).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-11).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-12).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-13).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-14).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-15).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-16).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-17).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-2).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-3).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-4).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-5).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-6).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-7).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-8).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(3-9).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-1).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-10).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-11).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-12).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-13).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-14).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-15).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-2).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-3).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-4).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-5).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-6).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-7).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-8).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(4-9).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-1).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-10).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-11).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-12).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-13).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-14).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-15).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-2).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-3).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-4).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-5).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-6).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-7).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-8).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(5-9).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-1).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-10).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-11).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-12).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-13).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-14).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-15).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-2).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-3).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-4).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-5).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-6).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-7).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-8).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(6-9).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-1).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-10).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-11).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-12).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-13).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-14).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-15).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-16).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-17).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-18).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-19).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-2).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-20).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-3).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-4).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-5).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-6).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-7).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-8).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(7-9).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-1).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-10).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-11).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-12).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-13).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-14).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-15).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-16).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-17).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-18).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-19).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-2).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-20).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-21).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-22).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-3).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-4).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-5).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-6).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-7).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-8).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(8-9).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-1).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-10).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-11).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-12).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-13).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-14).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-15).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-16).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-17).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-18).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-19).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-2).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-20).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-21).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-22).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-23).txt,Do,1,word,val
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-24).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-25).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-26).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-27).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-28).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-29).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-3).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-4).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-5).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-6).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-7).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-8).txt,Do,1,word,test
+D:\data-20260324T130558Z-3-001\data\Do\Do(9-9).txt,Do,1,word,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-1).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-10).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-11).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-12).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-13).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-14).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-15).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-16).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-17).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-18).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-19).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-2).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-3).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-4).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-5).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-6).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-7).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-8).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(1-9).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-1).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-10).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-11).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-12).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-13).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-14).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-2).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-3).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-4).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-5).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-6).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-7).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-8).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(10-9).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-1).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-10).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-11).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-2).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-3).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-4).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-5).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-6).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-7).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-8).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(2-9).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-1).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-10).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-11).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-12).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-13).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-14).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-15).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-16).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-17).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-18).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-2).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-3).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-4).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-5).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-6).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-7).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-8).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(3-9).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-1).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-10).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-11).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-12).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-13).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-14).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-15).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-16).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-17).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-2).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-3).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-4).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-5).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-6).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-7).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-8).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(4-9).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-1).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-10).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-11).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-12).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-13).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-14).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-15).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-16).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-17).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-18).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-2).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-3).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-4).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-5).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-6).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-7).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-8).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(5-9).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-1).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-10).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-11).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-12).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-13).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-14).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-15).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-16).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-17).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-18).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-2).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-3).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-4).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-5).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-6).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-7).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-8).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(6-9).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-1).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-10).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-11).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-12).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-13).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-14).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-15).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-16).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-2).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-3).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-4).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-5).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-6).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-7).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-8).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(7-9).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-1).txt,Do Not Land Here,1,sentence,test
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-10).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-11).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-12).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-13).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-14).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-2).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-3).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-4).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-5).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-6).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-7).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-8).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(8-9).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-1).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-10).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-11).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-12).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-13).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-14).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-15).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-2).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-3).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-4).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-5).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-6).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-7).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-8).txt,Do Not Land Here,1,sentence,val
+D:\data-20260324T130558Z-3-001\data\Do Not Land Here\Do Not Land Here(9-9).txt,Do Not Land Here,1,sentence,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-1).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-10).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-11).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-12).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-13).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-14).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-15).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-16).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-17).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-18).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-2).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-3).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-4).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-5).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-6).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-7).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-8).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(1-9).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-1).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-10).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-11).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-12).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-13).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-14).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-15).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-16).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-17).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-18).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-19).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-2).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-20).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-3).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-4).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-5).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-6).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-7).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-8).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(10-9).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-1).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-10).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-11).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-12).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-13).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-14).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-15).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-16).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-2).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-3).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-4).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-5).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-6).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-7).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-8).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(2-9).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-1).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-10).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-11).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-12).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-13).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-14).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-15).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-2).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-3).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-4).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-5).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-6).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-7).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-8).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(3-9).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-1).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-10).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-11).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-12).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-13).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-14).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-15).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-2).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-3).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-4).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-5).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-6).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-7).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-8).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(4-9).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-1).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-10).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-11).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-12).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-13).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-14).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-15).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-16).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-17).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-18).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-19).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-2).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-20).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-21).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-22).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-3).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-4).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-5).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-6).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-7).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-8).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(5-9).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-1).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-10).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-11).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-12).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-13).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-14).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-15).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-16).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-17).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-18).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-19).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-2).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-20).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-21).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-22).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-23).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-24).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-25).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-3).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-4).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-5).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-6).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-7).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-8).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(6-9).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-1).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-10).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-11).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-12).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-13).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-14).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-15).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-16).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-17).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-18).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-19).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-2).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-3).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-4).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-5).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-6).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-7).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-8).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(7-9).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-1).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-10).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-11).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-12).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-13).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-14).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-15).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-16).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-17).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-18).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-19).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-2).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-20).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-21).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-22).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-3).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-4).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-5).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-6).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-7).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-8).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(8-9).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-1).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-10).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-11).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-12).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-13).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-14).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-15).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-2).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-3).txt,Here,2,word,val
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-4).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-5).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-6).txt,Here,2,word,test
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-7).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-8).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Here\Here(9-9).txt,Here,2,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-1).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-10).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-11).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-12).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-13).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-14).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-15).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-16).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-17).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-18).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-19).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-2).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-20).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-3).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-4).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-5).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-6).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-7).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-8).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(1-9).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-1).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-10).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-11).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-12).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-13).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-14).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-2).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-3).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-4).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-5).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-6).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-7).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-8).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(2-9).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-1).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-10).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-11).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-12).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-13).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-14).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-15).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-16).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-17).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-18).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-19).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-2).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-20).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-3).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-4).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-5).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-6).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-7).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-8).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(3-9).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-1).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-10).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-11).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-12).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-13).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-14).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-15).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-2).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-3).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-4).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-5).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-6).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-7).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-8).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(4-9).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-1).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-10).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-11).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-12).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-13).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-14).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-15).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-16).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-17).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-18).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-19).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-2).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-20).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-21).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-22).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-23).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-3).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-4).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-5).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-6).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-7).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-8).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(5-9).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-1).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-10).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-11).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-12).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-13).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-14).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-2).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-3).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-4).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-5).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-6).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-7).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-8).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(6-9).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-1).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-10).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-11).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-12).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-13).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-14).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-15).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-16).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-17).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-18).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-19).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-2).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-20).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-21).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-3).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-4).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-5).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-6).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-7).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-8).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(7-9).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-1).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-10).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-11).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-12).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-13).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-14).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-15).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-16).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-17).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-18).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-19).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-2).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-20).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-3).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-4).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-5).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-6).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-7).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-8).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(8-9).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-1).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-10).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-11).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-12).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-13).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-14).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-15).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-2).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-3).txt,Land,3,word,val
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-4).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-5).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-6).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-7).txt,Land,3,word,test
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-8).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Land\Land(9-9).txt,Land,3,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-1).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-10).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-11).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-12).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-13).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-14).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-15).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-16).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-17).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-18).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-2).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-3).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-4).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-5).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-6).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-7).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-8).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(1-9).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-1).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-10).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-11).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-12).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-13).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-2).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-3).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-4).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-5).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-6).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-7).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-8).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(10-9).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-1).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-10).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-11).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-12).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-13).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-2).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-3).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-4).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-5).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-6).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-7).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-8).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(2-9).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-1).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-10).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-11).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-12).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-13).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-14).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-15).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-16).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-17).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-18).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-19).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-2).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-20).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-3).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-4).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-5).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-6).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-7).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-8).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(3-9).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-1).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-10).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-11).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-12).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-13).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-14).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-15).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-16).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-17).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-18).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-2).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-3).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-4).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-5).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-6).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-7).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-8).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(4-9).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-1).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-10).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-11).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-12).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-13).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-14).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-15).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-16).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-17).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-18).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-2).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-3).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-4).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-5).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-6).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-7).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-8).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(5-9).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-1).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-10).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-11).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-12).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-13).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-14).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-2).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-3).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-4).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-5).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-6).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-7).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-8).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(6-9).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-1).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-10).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-11).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-12).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-13).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-2).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-3).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-4).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-5).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-6).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-7).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-8).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(7-9).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-1).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-10).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-11).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-12).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-13).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-2).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-3).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-4).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-5).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-6).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-7).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-8).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(8-9).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-1).txt,Medical,4,word,test
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-10).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-11).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-12).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-13).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-2).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-3).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-4).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-5).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-6).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-7).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-8).txt,Medical,4,word,val
+D:\data-20260324T130558Z-3-001\data\Medical\Medical(9-9).txt,Medical,4,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-1).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-10).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-11).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-12).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-13).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-14).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-15).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-16).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-17).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-18).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-2).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-3).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-4).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-5).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-6).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-7).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(1-9).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-1).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-10).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-11).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-12).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-13).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-2).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-3).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-4).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-5).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-6).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-7).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(10-9).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-1).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-10).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-2).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-3).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-4).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-5).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-6).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-7).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(2-9).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-1).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-10).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-11).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-12).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-13).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-2).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-3).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-4).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-5).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-6).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-7).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(3-9).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-1).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-10).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-11).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-12).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-13).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-14).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-15).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-16).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-2).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-3).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-4).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-5).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-6).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-7).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(4-9).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-1).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-10).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-11).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-12).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-13).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-2).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-3).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-4).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-5).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-6).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-7).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(5-9).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-1).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-10).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-11).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-12).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-13).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-2).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-3).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-4).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-5).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-6).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-7).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(6-9).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-1).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-10).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-11).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-12).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-13).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-14).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-2).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-3).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-4).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-5).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-6).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-7).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(7-9).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-1).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-10).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-11).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-12).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-13).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-2).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-3).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-4).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-5).txt,Need,5,word,test
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-6).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-7).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(8-9).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-1).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-10).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-11).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-12).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-13).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-14).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-2).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-3).txt,Need,5,word,val
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-4).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-5).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-6).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-7).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-8).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need\Need(9-9).txt,Need,5,word,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-1).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-10).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-11).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-12).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-13).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-14).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-15).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-2).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-3).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-4).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-5).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-6).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-8).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(1-9).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(10-1).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(10-2).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(10-3).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(10-4).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(10-5).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(10-6).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(10-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(10-8).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(10-9).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-1).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-10).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-11).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-12).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-13).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-14).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-15).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-16).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-17).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-18).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-2).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-3).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-4).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-5).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-6).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-8).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(2-9).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-1).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-10).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-11).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-12).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-13).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-14).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-15).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-16).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-2).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-3).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-4).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-5).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-6).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-8).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(3-9).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-1).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-10).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-11).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-12).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-13).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-14).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-15).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-2).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-3).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-4).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-5).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-6).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-8).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(4-9).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-1).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-10).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-11).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-12).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-13).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-14).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-2).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-3).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-4).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-5).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-6).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-8).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(5-9).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-1).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-10).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-11).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-12).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-13).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-14).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-2).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-3).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-4).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-5).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-6).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-8).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(6-9).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-1).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-10).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-11).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-12).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-13).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-14).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-15).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-2).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-3).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-4).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-5).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-6).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-8).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(7-9).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-1).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-10).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-11).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-12).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-13).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-14).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-2).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-3).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-4).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-5).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-6).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-8).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(8-9).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-1).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-10).txt,Need Medical Assistance,0,sentence,val
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-11).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-12).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-13).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-2).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-3).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-4).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-5).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-6).txt,Need Medical Assistance,0,sentence,test
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-7).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-8).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Need Medical Assistance\Need Medical Assistance(9-9).txt,Need Medical Assistance,0,sentence,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-1).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-10).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-11).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-12).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-13).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-14).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-15).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-16).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-17).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-18).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-19).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-2).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-20).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-21).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-22).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-23).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-24).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-25).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-26).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-3).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-4).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-5).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-6).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-7).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-8).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(1-9).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-1).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-10).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-11).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-12).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-13).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-14).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-15).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-16).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-17).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-18).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-19).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-2).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-20).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-3).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-4).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-5).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-6).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-7).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-8).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(2-9).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-1).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-10).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-11).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-12).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-13).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-14).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-15).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-16).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-2).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-3).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-4).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-5).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-6).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-7).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-8).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(3-9).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-1).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-10).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-11).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-12).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-13).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-14).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-15).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-2).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-3).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-4).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-5).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-6).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-7).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-8).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(4-9).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-1).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-10).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-11).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-12).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-13).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-14).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-15).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-16).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-2).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-3).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-4).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-5).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-6).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-7).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-8).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(5-9).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-1).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-10).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-11).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-12).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-13).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-14).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-15).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-16).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-2).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-3).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-4).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-5).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-6).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-7).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-8).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(6-9).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-1).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-10).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-11).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-12).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-13).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-14).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-15).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-2).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-3).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-4).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-5).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-6).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-7).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-8).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(7-9).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-1).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-10).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-11).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-12).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-13).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-14).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-15).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-2).txt,Not,6,word,test
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-3).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-4).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-5).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-6).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-7).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-8).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(8-9).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-1).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-10).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-11).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-12).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-13).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-14).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-15).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-16).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-2).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-3).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-4).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-5).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-6).txt,Not,6,word,val
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-7).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-8).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Not\Not(9-9).txt,Not,6,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-1).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-10).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-11).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-12).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-13).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-14).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-15).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-16).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-17).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-18).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-19).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-2).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-20).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-21).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-22).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-23).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-24).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-25).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-26).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-3).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-4).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-5).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-6).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-7).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-8).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(1-9).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-1).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-10).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-11).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-12).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-13).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-14).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-15).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-16).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-17).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-2).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-3).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-4).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-5).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-6).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-7).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-8).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(10-9).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-1).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-10).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-2).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-3).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-4).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-5).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-6).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-7).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-8).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(2-9).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-1).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-10).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-11).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-12).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-13).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-14).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-15).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-16).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-17).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-18).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-19).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-2).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-20).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-21).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-22).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-3).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-4).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-5).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-6).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-7).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-8).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(3-9).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-1).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-10).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-11).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-12).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-13).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-14).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-15).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-16).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-17).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-18).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-19).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-2).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-3).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-4).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-5).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-6).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-7).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-8).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(4-9).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-1).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-10).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-11).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-12).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-13).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-14).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-15).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-16).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-17).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-18).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-19).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-2).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-20).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-21).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-3).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-4).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-5).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-6).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-7).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-8).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(5-9).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-1).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-10).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-11).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-12).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-13).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-14).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-15).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-16).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-17).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-18).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-19).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-2).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-20).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-21).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-3).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-4).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-5).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-6).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-7).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-8).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(6-9).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-1).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-10).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-11).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-12).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-13).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-14).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-15).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-16).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-17).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-18).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-19).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-2).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-3).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-4).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-5).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-6).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-7).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-8).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(7-9).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(8-1).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(8-2).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(8-3).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(8-4).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(8-5).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(8-6).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(8-7).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(8-8).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(8-9).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-1).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-10).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-11).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-12).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-13).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-14).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-15).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-16).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-17).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-18).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-19).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-2).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-3).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-4).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-5).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-6).txt,Pick,7,word,train
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-7).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-8).txt,Pick,7,word,val
+D:\data-20260324T130558Z-3-001\data\Pick\Pick(9-9).txt,Pick,7,word,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-1).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-10).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-11).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-12).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-13).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-14).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-15).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-16).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-17).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-18).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-19).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-2).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-20).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-21).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-22).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-23).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-24).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-25).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-26).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-3).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-4).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-5).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-6).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-7).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-8).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(1-9).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-1).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-10).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-11).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-12).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-13).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-14).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-15).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-16).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-17).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-18).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-19).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-2).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-20).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-21).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-3).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-4).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-5).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-6).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-7).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-8).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(2-9).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-1).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-10).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-11).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-12).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-13).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-14).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-15).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-16).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-17).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-18).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-19).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-2).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-3).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-4).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-5).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-6).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-7).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-8).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(3-9).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-1).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-10).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-11).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-12).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-13).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-14).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-15).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-2).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-3).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-4).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-5).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-6).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-7).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-8).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(4-9).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-1).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-10).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-11).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-12).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-13).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-14).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-15).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-16).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-17).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-18).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-2).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-3).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-4).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-5).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-6).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-7).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-8).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(5-9).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-1).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-10).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-11).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-12).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-13).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-14).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-15).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-16).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-2).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-3).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-4).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-5).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-6).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-7).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-8).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(6-9).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-1).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-10).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-11).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-12).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-13).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-14).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-15).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-16).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-2).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-3).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-4).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-5).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-6).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-7).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-8).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(7-9).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-1).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-10).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-11).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-12).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-13).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-14).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-15).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-2).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-3).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-4).txt,Pick Us Up,2,sentence,test
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-5).txt,Pick Us Up,2,sentence,val
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-6).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-7).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-8).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Pick Us Up\Pick Us Up(8-9).txt,Pick Us Up,2,sentence,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-1).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-10).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-11).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-12).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-13).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-14).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-2).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-3).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-4).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-5).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-6).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-7).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-8).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(1-9).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-1).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-10).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-11).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-12).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-13).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-14).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-15).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-16).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-17).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-18).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-19).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-2).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-20).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-21).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-3).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-4).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-5).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-6).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-7).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-8).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(10-9).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-1).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-10).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-11).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-12).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-13).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-14).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-15).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-16).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-17).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-18).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-19).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-2).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-3).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-4).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-5).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-6).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-7).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-8).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(2-9).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-1).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-10).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-11).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-12).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-13).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-14).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-15).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-16).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-17).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-18).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-19).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-2).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-20).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-21).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-22).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-23).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-24).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-25).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-26).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-27).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-28).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-3).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-4).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-5).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-6).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-7).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-8).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(3-9).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-1).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-10).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-11).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-12).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-13).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-14).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-15).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-16).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-17).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-18).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-19).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-2).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-20).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-3).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-4).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-5).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-6).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-7).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-8).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(4-9).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-1).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-10).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-11).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-12).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-13).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-14).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-15).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-2).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-3).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-4).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-5).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-6).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-7).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-8).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(5-9).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-1).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-10).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-11).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-12).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-13).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-14).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-15).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-2).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-3).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-4).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-5).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-6).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-7).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-8).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(6-9).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-1).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-10).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-11).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-12).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-13).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-14).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-15).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-16).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-2).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-3).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-4).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-5).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-6).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-7).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-8).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(7-9).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-1).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-10).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-11).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-12).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-13).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-14).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-15).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-16).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-17).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-2).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-3).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-4).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-5).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-6).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-7).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-8).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(8-9).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-1).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-10).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-11).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-12).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-13).txt,Up,8,word,test
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-14).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-15).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-16).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-17).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-18).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-19).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-2).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-20).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-3).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-4).txt,Up,8,word,val
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-5).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-6).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-7).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-8).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Up\Up(9-9).txt,Up,8,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-1).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-10).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-11).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-12).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-13).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-14).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-15).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-16).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-2).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-3).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-4).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-5).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-6).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-7).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-8).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(1-9).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-1).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-10).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-11).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-12).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-13).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-14).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-15).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-16).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-17).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-18).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-19).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-2).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-20).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-21).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-3).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-4).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-5).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-6).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-7).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-8).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(10-9).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-1).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-10).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-11).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-12).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-13).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-14).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-15).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-16).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-17).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-18).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-19).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-2).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-20).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-21).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-3).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-4).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-5).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-6).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-7).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-8).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(2-9).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-1).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-10).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-11).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-12).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-13).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-14).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-15).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-16).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-2).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-3).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-4).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-5).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-6).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-7).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-8).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(3-9).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-1).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-10).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-11).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-12).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-13).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-14).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-2).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-3).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-4).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-5).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-6).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-7).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-8).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(4-9).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-1).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-10).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-11).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-12).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-13).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-14).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-2).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-3).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-4).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-5).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-6).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-7).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-8).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(5-9).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-1).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-10).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-11).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-12).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-13).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-14).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-15).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-16).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-2).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-3).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-4).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-5).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-6).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-7).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-8).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(6-9).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-1).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-10).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-11).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-12).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-13).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-14).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-15).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-16).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-17).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-18).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-19).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-2).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-20).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-3).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-4).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-5).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-6).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-7).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-8).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(7-9).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-1).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-10).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-11).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-12).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-13).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-14).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-15).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-16).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-17).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-18).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-19).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-2).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-20).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-3).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-4).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-5).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-6).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-7).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-8).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(8-9).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-1).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-10).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-11).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-12).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-13).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-14).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-15).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-16).txt,Us,9,word,test
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-17).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-18).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-19).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-2).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-20).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-3).txt,Us,9,word,val
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-4).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-5).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-6).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-7).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-8).txt,Us,9,word,train
+D:\data-20260324T130558Z-3-001\data\Us\Us(9-9).txt,Us,9,word,test

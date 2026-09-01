@@ -1,0 +1,14 @@
+# EMG calibrated-word inference API
+#
+# The predictor itself needs only numpy. FastAPI/uvicorn serve it over HTTP.
+# torch is deliberately NOT listed: the active calibrated path never loads the
+# .pt encoders.
+
+fastapi==0.139.0
+uvicorn[standard]==0.50.2
+pydantic==2.13.4
+numpy==2.5.1
+
+# --- test only ---
+pytest==9.1.1
+httpx==0.28.1
