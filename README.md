@@ -33,7 +33,7 @@ AI-Mute-To-Speech-FYP-2026/
 ├── Application/
 │   ├── client/          # React Native / Expo Android app
 │   ├── server/          # Node.js Express API
-│   └── Database/        # SQL migrations and schema backups
+│   └── Database/        # Canonical schema, migrations, and backups
 ├── EMG_Silent_Speech/
 │   ├── ai_service/      # FastAPI inference HTTP service
 │   ├── runtime/         # Calibrated word predictor implementation
@@ -92,25 +92,63 @@ npm run dev
 cd EMG_Silent_Speech
 python -m pip install -r ai_service/requirements.txt
 cp ai_service/.env.example ai_service/.env
-# Edit EMG_AI_MODEL_PATH if needed
-python -m uvicorn ai_service.app.main:app --host 127.0.0.1 --port 8077
+# Set EMG_AI_MODEL_PATH in ai_service/.env if needed
+python -m uvicorn ai_service.app.main:app --port 8077
 ```
 
-Health check: `GET http://127.0.0.1:8077/health`
+Health check: `GET /health` on the Python service (default port `8077`).
 
 ## MySQL
 
 - **Database name:** `emg_mute_to_speech` (configurable)
 - **Charset:** `utf8mb4` / `utf8mb4_unicode_ci`
-- **Migrations:** `Application/Database/migrations/`
+- **Location:** `Application/Database/` — canonical schema, migrations, and backups
 
-Apply migrations:
+### Fresh database setup
+
+Apply in this order:
+
+**a. Create database**
+
+```sql
+CREATE DATABASE emg_mute_to_speech
+  DEFAULT CHARACTER SET utf8mb4
+  COLLATE utf8mb4_unicode_ci;
+```
+
+**b. Apply base schema**
+
+```bash
+mysql -u <user> -p emg_mute_to_speech < Application/Database/schema.sql
+```
+
+**c. Run migration 001**
 
 ```bash
 cd Application/server
 node scripts/run-phase1-migration.js
+```
+
+Or apply SQL directly:
+
+```bash
+mysql -u <user> -p emg_mute_to_speech < Application/Database/migrations/001_personalized_calibration_phase1.sql
+```
+
+**d. Run migration 002**
+
+```bash
+cd Application/server
 node scripts/run-notification-preferences-migration.js
 ```
+
+Or apply SQL directly:
+
+```bash
+mysql -u <user> -p emg_mute_to_speech < Application/Database/migrations/002_notification_preferences.sql
+```
+
+See `Application/Database/README.md` for verification steps.
 
 ## BLE / ESP32
 
@@ -121,10 +159,14 @@ node scripts/run-notification-preferences-migration.js
 
 ## Personalized Calibration
 
-- Per-user calibration profiles stored in MySQL (`calibration_profiles`,
-  `calibration_word_entries`, `calibration_neutral_baseline`)
-- Word references built via Python `/calibration/word-reference`
-- Phase 1 migration normalizes legacy JSON calibration data
+Each user calibrates supported words using real EMG and potentiometer (POT)
+captures from the ESP32 sensor. Personalized references are stored per user in
+MySQL (`calibration_profiles`, `calibration_word_entries`,
+`calibration_neutral_baseline`). The global model (`calibrated_word_model_v6.npz`)
+remains the fallback for words not yet personalized.
+
+Word references are built via the Python `/calibration/word-reference` endpoint.
+Migration 001 normalizes legacy JSON calibration data into the per-word tables.
 
 ## Translation
 
@@ -137,14 +179,21 @@ node scripts/run-notification-preferences-migration.js
 
 ## Notifications
 
-- Local push notifications for BLE connect/disconnect, calibration events, and
-  prediction results
-- Per-category preferences in `users.notification_preferences` (migration 002)
+Local push notifications with per-category preferences (`users.notification_preferences`,
+migration 002). Supported events:
+
+- Device connected / disconnected (BLE)
+- Calibration complete / calibration required
+- Accepted prediction result
+
+Users can enable or disable categories independently. A master toggle is available
+via `users.notifications_enabled`.
 
 ## Development Setup
 
 1. Install **Node.js 18+**, **Python 3.10+**, and **MySQL 8**
-2. Create the MySQL database and base schema
+2. Set up MySQL using `Application/Database/schema.sql` and migrations 001–002
+   (see **MySQL** section above)
 3. Copy `.env.example` → `.env` in `Application/server`, `Application/client`, and
    `EMG_Silent_Speech/ai_service`
 4. Start MySQL, Python AI, Node API, then the Expo client
@@ -188,11 +237,14 @@ python -m pytest ai_service/tests -q
 | Property | Value |
 |----------|-------|
 | Active artefact | `calibrated_word_model_v6.npz` |
+| Path | `EMG_Silent_Speech/training/results/calibrated_word_model_v6.npz` |
+| Active labels (9) | help, no, pain, stop, Assistance, Medical, Pick, Land, Up |
 | Size | ~384 KB |
 | SHA-256 | `e829b06eb168567590c77a33f7bad8bc3fab44f6bdbb2bd11d8edaea2730a0ba` |
 | Dependencies | numpy only (no torch at inference time) |
 
-Earlier model versions (v1–v5) are retained in `training/results/` for reference.
+Earlier model versions (v1–v5) are retained in `EMG_Silent_Speech/training/results/`
+for reference.
 
 ## Database Migrations
 
@@ -205,18 +257,24 @@ Verification scripts are in `Application/server/scripts/`.
 
 ## Production Deployment Status
 
-See `Application/PRODUCTION_DEPLOYMENT_READINESS_REPORT.md` for the full
-read-only deployment audit. Summary: architecture is defined; HTTPS, EAS
-production API URL, and host secret management are required before go-live.
+Production deployment is **planned but not yet completed**. The application is
+fully implemented for development and FYP demonstration. Before go-live:
 
-## Reports
+- HTTPS API endpoint and production Android build configuration
+- Hosted Node.js API, private Python AI service, and managed MySQL
+- Environment secrets and TLS termination
 
-| Report | Location |
-|--------|----------|
-| Production deployment audit | `Application/PRODUCTION_DEPLOYMENT_READINESS_REPORT.md` |
-| AI API integration | `EMG_Silent_Speech/AI_API_INTEGRATION_REPORT.md` |
-| BLE implementation | `Hardware/esp32_ai_usb_bluetooth/BLE_IMPLEMENTATION_REPORT.md` |
-| GitHub preparation | `GITHUB_REPOSITORY_PREPARATION_REPORT.md` |
+Component setup is documented in `Application/Database/README.md`,
+`EMG_Silent_Speech/ai_service/README.md`, and the respective `.env.example`
+files under `Application/server/` and `Application/client/`.
+
+## Documentation
+
+| Topic | Location |
+|-------|----------|
+| Database schema and migrations | `Application/Database/README.md` |
+| Python inference API | `EMG_Silent_Speech/ai_service/README.md` |
+| BLE protocol and firmware | `Hardware/esp32_ai_usb_bluetooth/` |
 
 ## License
 
